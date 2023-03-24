@@ -7,4 +7,5 @@ original dataset, and Kmeans_noisy.png & Clam_noisy.png refer to the results on 
 We then compute the clustering quality via SC/NMI and ARI metrics. However, for the noisy dataset, we compute the metrics only on the inliers
 (i.e., excluding the outliers), to see how much the outliers affect the clustering quality of the actual inliers.
 
-![Noisy][./Noisy.png]
+![Noisy][Noisy.png]
+![Clean][Clean.png]
