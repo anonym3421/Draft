@@ -1,82 +1,4 @@
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
-  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-    <img src="zoo.csv.png" alt="Image 1">
-    <figcaption style="text-align: center;">Figure 1: Caption for Image 1</figcaption>
-  </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-    <img src="zoo.csv.png" alt="Image 2">
-    <figcaption style="text-align: center;">Figure 2: Caption for Image 2</figcaption>
-  </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-    <img src="zoo.csv.png" alt="Image 3">
-    <figcaption style="text-align: center;">Figure 3: Caption for Image 3</figcaption>
-  </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-    <img src="zoo.csv.png" alt="Image 4">
-    <figcaption style="text-align: center;">Figure 4: Caption for Image 4</figcaption>
-  </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-    <img src="zoo.csv.png" alt="Image 5">
-    <figcaption style="text-align: center;">Figure 5: Caption for Image 5</figcaption>
-  </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-    <img src="zoo.csv.png" alt="Image 6">
-    <figcaption style="text-align: center;">Figure 6: Caption for Image 6</figcaption>
-  </figure>
-</div>
-
-<!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
-  <figure>
-    <img src="zoo.csv.png" alt="Image 1" width="30%">
-    <figcaption style="text-align: center;">Zoo</figcaption>
-  </figure>
-  <figure>
-    <img src="zoo.csv.png" alt="Image 2" width="30%">
-    <figcaption style="text-align: center;">Zoo</figcaption>
-  </figure>
-  <figure>
-    <img src="zoo.csv.png" alt="Image 3" width="30%">
-    <figcaption style="text-align: center;">Zoo</figcaption>
-  </figure>
-</div>
-<div>
-  <figure>
-    <img src="zoo.csv.png" alt="Image 4" width="30%">
-    <figcaption>Zoo</figcaption>
-  </figure>
-  <figure>
-    <img src="zoo.csv.png" alt="Image 5" width="30%">
-    <figcaption>Zoo</figcaption>
-  </figure>
-  <figure>
-    <img src="zoo.csv.png" alt="Image 6" width="30%">
-    <figcaption>Zoo</figcaption>
-  </figure>
-</div> -->
-
-
-<!-- <div>
-  <img src="zoo.csv.png" alt="Image 1" width="30%">
-  <img src="Yale.mat.png" alt="Image 2" width="30%">
-  <img src="ecoli.data.png" alt="Image 3" width="30%">
-</div>
-<div>
-   <img src="zoo.csv.png" alt="Image 1" width="30%">
-  <img src="Yale.mat.png" alt="Image 2" width="30%">
-  <img src="ecoli.data.png" alt="Image 3" width="30%">
-</div>
-<div>
-  <p>Zoo</p>
-  <p>Yale</p>
-  <p>Ecoli</p>
-</div>
-<div>
-  <p>Zoo</p>
-  <p>Yale</p>
-  <p>Ecoli</p>
-</div> -->
-
-<!-- <p align="center">
+<p align="center">
   <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
   <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
   <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
@@ -93,6 +15,6 @@
   <img src="segment.dat.png" height="150px" hspace="10">
   <img src="GCM.csv.png" height="150px" hspace="10">
   <img src="fmnist.csv.png" height="150px" hspace="10">
-</p> -->
+</p>
 
 In terms of deeper analysis, we also compute the distribution of the entropy of the softmax in the AM update equation (4) for the selected $\beta$ after the ClAM training, and see that, across multiple datasets, the entropy distribution spikes at zero, indicating that, for most points, the softmax puts all the probability mass on the closest prototype, which is the desired behavior.
