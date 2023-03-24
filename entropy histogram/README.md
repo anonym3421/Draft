@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="zoo.csv.png" height="200px" hspace="20">
-  <img src="Yale.mat.png" height="200px" hspace="20">
-  <img src="ecoli.data.png" height="200px" hspace="20">
+  <img src="zoo.csv.png" height="200px" hspace="10">
+  <img src="Yale.mat.png" height="200px" hspace="10">
+  <img src="ecoli.data.png" height="200px" hspace="10">
 </p>
 
 <p align="center">
-  <img src="movement_libras.csv.png" height="200px" hspace="20">
-  <img src="mp_exp.txt.png" height="200px" hspace="20">
-  <img src="usps.t.png" height="200px" hspace="20">
+  <img src="movement_libras.csv.png" height="200px" hspace="10">
+  <img src="mp_exp.txt.png" height="200px" hspace="10">
+  <img src="usps.t.png" height="200px" hspace="10">
 </p>
 
 <p align="center">
