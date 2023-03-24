@@ -1,11 +1,13 @@
 <div align="center">
   <figure>
     <img src="zoo.csv.png" title="Zoo" height="150px" hspace="10">
-    <figcaption style="text-align:left;">Zoo</figcaption>
+    <!-- <figcaption style="text-align:left;">Zoo</figcaption> -->
+    <center>Zoo</center>
   </figure>
   <figure>
     <img src="Yale.mat.png" title="Yale" height="150px" hspace="10">
-    <figcaption style="text-align:left;">Yale</figcaption>
+    <!-- <figcaption style="text-align:left;">Yale</figcaption> -->
+     <center>Zoo</center>
   </figure>
   <figure>
     <img src="ecoli.data.png" title="Ecoli" height="150px" hspace="10">
