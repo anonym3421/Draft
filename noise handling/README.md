@@ -11,15 +11,15 @@
 </div> -->
 
 <p align="center">
-  <img src="Clean.png" height="200px" hspace="10">
-  <img src="Kmeans_clean.png" height="200px" hspace="10">
-  <img src="ClAM_clean.png" height="200px" hspace="10">
+  <img src="Clean.png" height="250px" hspace="20">
+  <img src="Kmeans_clean.png" height="250px" hspace="20">
+  <img src="ClAM_clean.png" height="250px" hspace="20">
 </p>
 
 <p align="center">
-  <img src="Noisy.png" height="200px" hspace="10">
-  <img src="Kmeans_noisy.png" height="200px" hspace="10">
-  <img src="ClAM_noisy.png" height="200px" hspace="10">
+  <img src="Noisy.png" height="250px" hspace="20">
+  <img src="Kmeans_noisy.png" height="250px" hspace="20">
+  <img src="ClAM_noisy.png" height="250px" hspace="20">
 </p>
 
 For the purpose of this experiment, we first add outliers to an example dataset. Clean.png refers to the original dataset and Noisy.png refers to
