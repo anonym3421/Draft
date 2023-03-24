@@ -8,7 +8,7 @@
     <figcaption>Image 2</figcaption>
   </figure>
   <figure>
-    <img src="coli.data.png" alt="Image 3">
+    <img src="ecoli.data.png" alt="Image 3">
     <figcaption>Image 3</figcaption>
   </figure>
 </div>
