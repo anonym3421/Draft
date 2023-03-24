@@ -28,10 +28,13 @@
   </figure>
 </div> -->
 
-<!-- <p align="center">
-  <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
-  <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
-  <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
+<p align="center">
+  <figure>
+    <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
+    <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
+    <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
+    <figcaption style="text-align:left;">Zoo, Yale & Ecoli</figcaption>
+  </figure>
 </p> -->
 
 <!-- <p align="center">
@@ -45,8 +48,6 @@
   <img src="segment.dat.png" height="150px" hspace="10">
   <img src="GCM.csv.png" height="150px" hspace="10">
   <img src="fmnist.csv.png" height="150px" hspace="10">
-</p> -->
-
-![Zoo](zoo.csv.png) ![Zoo](zoo.csv.png)  ![Zoo](zoo.csv.png) 
+</p>
 
 In terms of deeper analysis, we also compute the distribution of the entropy of the softmax in the AM update equation (4) for the selected $\beta$ after the ClAM training, and see that, across multiple datasets, the entropy distribution spikes at zero, indicating that, for most points, the softmax puts all the probability mass on the closest prototype, which is the desired behavior.
