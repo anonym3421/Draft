@@ -1,9 +1,5 @@
 <p align="center">
-<figure>
-  <img src="zoo.csv.png" alt="Zoo" height="200px" hspace="10">
-  <figcaption>Zoo</figcaption>
-</figure>
-  <!-- <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10"> -->
+  <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
   <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
   <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
 </p>
