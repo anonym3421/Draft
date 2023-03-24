@@ -1,4 +1,34 @@
 <div>
+  <figure>
+    <img src="zoo.csv.png" alt="Image 1" width="30%">
+    <figcaption>Zoo</figcaption>
+  </figure>
+  <figure>
+    <img src="zoo.csv.png" alt="Image 2" width="30%">
+    <figcaption>Zoo</figcaption>
+  </figure>
+  <figure>
+    <img src="zoo.csv.png" alt="Image 3" width="30%">
+    <figcaption>Zoo</figcaption>
+  </figure>
+</div>
+<div>
+  <figure>
+    <img src="zoo.csv.png" alt="Image 4" width="30%">
+    <figcaption>Zoo</figcaption>
+  </figure>
+  <figure>
+    <img src="zoo.csv.png" alt="Image 5" width="30%">
+    <figcaption>Zoo</figcaption>
+  </figure>
+  <figure>
+    <img src="zoo.csv.png" alt="Image 6" width="30%">
+    <figcaption>Zoo</figcaption>
+  </figure>
+</div>
+
+
+<!-- <div>
   <img src="zoo.csv.png" alt="Image 1" width="30%">
   <img src="Yale.mat.png" alt="Image 2" width="30%">
   <img src="ecoli.data.png" alt="Image 3" width="30%">
@@ -17,7 +47,7 @@
   <p>Zoo</p>
   <p>Yale</p>
   <p>Ecoli</p>
-</div>
+</div> -->
 
 <!-- <p align="center">
   <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
