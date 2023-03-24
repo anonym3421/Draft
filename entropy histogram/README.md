@@ -1,8 +1,23 @@
-<p align="center">
+<div align="center">
+  <figure>
+    <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
+    <figcaption style="text-align:center;">Figure 1: Caption for Zoo dataset</figcaption>
+  </figure>
+  <figure>
+    <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
+    <figcaption style="text-align:center;">Figure 2: Caption for Yale dataset</figcaption>
+  </figure>
+  <figure>
+    <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
+    <figcaption style="text-align:center;">Figure 3: Caption for Ecoli dataset</figcaption>
+  </figure>
+</div>
+
+<!-- <p align="center">
   <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
   <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
   <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
-</p>
+</p> -->
 
 <p align="center">
   <img src="movement_libras.csv.png" height="200px" hspace="10">
