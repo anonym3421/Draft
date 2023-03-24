@@ -33,7 +33,7 @@
     <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
     <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
     <p align="center"> Zoo, Yale & Ecoli</p>
-</p> -->
+</p>
 
 <p align="center">
   <img src="movement_libras.csv.png" height="200px" hspace="10">
