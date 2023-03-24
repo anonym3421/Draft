@@ -1,13 +1,31 @@
-<!-- <style>
-  figcaption {
-    display: block;
-    text-align: center;
-    font-size: 0.8em;
-    margin-top: 0.5em;
-  }
-</style> -->
-
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+    <img src="zoo.csv.png" alt="Image 1">
+    <figcaption style="text-align: center;">Figure 1: Caption for Image 1</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+    <img src="zoo.csv.png" alt="Image 2">
+    <figcaption style="text-align: center;">Figure 2: Caption for Image 2</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+    <img src="zoo.csv.png" alt="Image 3">
+    <figcaption style="text-align: center;">Figure 3: Caption for Image 3</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+    <img src="zoo.csv.png" alt="Image 4">
+    <figcaption style="text-align: center;">Figure 4: Caption for Image 4</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+    <img src="zoo.csv.png" alt="Image 5">
+    <figcaption style="text-align: center;">Figure 5: Caption for Image 5</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+    <img src="zoo.csv.png" alt="Image 6">
+    <figcaption style="text-align: center;">Figure 6: Caption for Image 6</figcaption>
+  </figure>
+</div>
+
+<!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
   <figure>
     <img src="zoo.csv.png" alt="Image 1" width="30%">
     <figcaption style="text-align: center;">Zoo</figcaption>
@@ -34,7 +52,7 @@
     <img src="zoo.csv.png" alt="Image 6" width="30%">
     <figcaption>Zoo</figcaption>
   </figure>
-</div>
+</div> -->
 
 
 <!-- <div>
