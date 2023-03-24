@@ -32,7 +32,7 @@
     <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
     <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
     <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
-    Zoo, Yale & Ecoli
+    <p> Zoo, Yale & Ecoli<\p>
 </p> -->
 
 <p align="center">
