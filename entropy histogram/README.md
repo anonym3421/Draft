@@ -1,3 +1,12 @@
+<style>
+  figcaption {
+    display: block;
+    text-align: center;
+    font-size: 0.8em;
+    margin-top: 0.5em;
+  }
+</style>
+
 <div>
   <figure>
     <img src="zoo.csv.png" alt="Image 1" width="30%">
