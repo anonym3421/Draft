@@ -1,8 +1,8 @@
 <div align="center">
   <figure>
+    <center>Zoo</center>
     <img src="zoo.csv.png" title="Zoo" height="150px" hspace="10">
     <!-- <figcaption style="text-align:left;">Zoo</figcaption> -->
-    <center>Zoo</center>
   </figure>
   <figure>
     <img src="Yale.mat.png" title="Yale" height="150px" hspace="10">
