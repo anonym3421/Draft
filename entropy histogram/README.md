@@ -30,7 +30,9 @@
 
 <p align="center">
     <img src="zoo.csv.png" title="Zoo" height="200px" hspace="10">
+    <p align="center"> Zoo, Yale & Ecoli</p>
     <img src="Yale.mat.png" title="Yale" height="200px" hspace="10">
+    <p align="center"> Zoo, Yale & Ecoli</p>
     <img src="ecoli.data.png" title="Ecoli" height="200px" hspace="10">
     <p align="center"> Zoo, Yale & Ecoli</p>
 </p> -->
