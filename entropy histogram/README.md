@@ -1,4 +1,4 @@
-<div >
+<div>
   <figure>
     <img src="zoo.csv.png" height="150px" hspace="10">
     <figcaption>Zoo<figcaption>
@@ -9,14 +9,14 @@
   </figure>
   <figure>
     <img src="ecoli.data.png" height="150px" hspace="10">
-    <figcaption style="text-align:left;">Ecoli</figcaption>
+    <figcaption style="text-align:right;">Ecoli</figcaption>
   </figure>
 </div>
 
-<div >
+<div>
   <figure>
     <img src="zoo.csv.png" title="Zoo" height="150px" hspace="10">
-    <figcaption style="text-align:left;">Zoo</figcaption>
+    <figcaption style="text-align:right;">Zoo</figcaption>
   </figure>
   <figure>
     <img src="Yale.mat.png" title="Yale" height="150px" hspace="10">
