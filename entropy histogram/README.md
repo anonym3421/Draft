@@ -7,7 +7,7 @@
   }
 </style> -->
 
-<div>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
   <figure>
     <img src="zoo.csv.png" alt="Image 1" width="30%">
     <figcaption style="text-align: center;">Zoo</figcaption>
