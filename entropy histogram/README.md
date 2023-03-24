@@ -1,29 +1,29 @@
 <div align="center">
   <figure>
-    <img src="zoo.csv.png" title="Zoo" width="30%" hspace="10">
+    <img src="zoo.csv.png" title="Zoo" height="150px" hspace="10">
     <figcaption style="text-align:center;">Zoo</figcaption>
   </figure>
   <figure>
-    <img src="Yale.mat.png" title="Yale" width="30%" hspace="10">
+    <img src="Yale.mat.png" title="Yale" height="150px" hspace="10">
     <figcaption style="text-align:center;">Yale</figcaption>
   </figure>
   <figure>
-    <img src="ecoli.data.png" title="Ecoli" width="30%" hspace="10">
+    <img src="ecoli.data.png" title="Ecoli" height="150px" hspace="10">
     <figcaption style="text-align:center;">Ecoli</figcaption>
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="zoo.csv.png" title="Zoo" width="30%" hspace="10">
+    <img src="zoo.csv.png" title="Zoo" height="150px" hspace="10">
     <figcaption style="text-align:center;">Zoo</figcaption>
   </figure>
   <figure>
-    <img src="Yale.mat.png" title="Yale" width="30%" hspace="10">
+    <img src="Yale.mat.png" title="Yale" height="150px" hspace="10">
     <figcaption style="text-align:center;">Yale</figcaption>
   </figure>
   <figure>
-    <img src="ecoli.data.png" title="Ecoli" width="30%" hspace="10">
+    <img src="ecoli.data.png" title="Ecoli" height="150px" hspace="10">
     <figcaption style="text-align:center;">Ecoli</figcaption>
   </figure>
 </div>
