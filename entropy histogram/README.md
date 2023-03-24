@@ -47,6 +47,6 @@
   <img src="fmnist.csv.png" height="150px" hspace="10">
 </p> -->
 
-![Zoo](zoo.csv.png) | ![Zoo](zoo.csv.png)  | ![Zoo](zoo.csv.png) 
+![Zoo](zoo.csv.png) ![Zoo](zoo.csv.png)  ![Zoo](zoo.csv.png) 
 
 In terms of deeper analysis, we also compute the distribution of the entropy of the softmax in the AM update equation (4) for the selected $\beta$ after the ClAM training, and see that, across multiple datasets, the entropy distribution spikes at zero, indicating that, for most points, the softmax puts all the probability mass on the closest prototype, which is the desired behavior.
