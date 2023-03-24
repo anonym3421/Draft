@@ -37,7 +37,7 @@
   </figure>
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="movement_libras.csv.png" height="200px" hspace="10">
   <img src="mp_exp.txt.png" height="200px" hspace="10">
   <img src="usps.t.png" height="200px" hspace="10">
