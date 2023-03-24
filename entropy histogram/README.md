@@ -1,11 +1,11 @@
 <div >
   <figure>
     <img src="zoo.csv.png" height="150px" hspace="10">
-    <figcaption style="text-align:center; font-style: italic; font-size: 0.8em; position: absolute; top: 0; left: 50%; transform: translateX(-50%);">Zoo<figcaption>
+    <figcaption>Zoo<figcaption>
   </figure>
   <figure>
     <img src="Yale.mat.png" height="150px" hspace="10">
-    <figcaption style="text-align:left;">Yale</figcaption>
+    <figcaption>Yale</figcaption>
   </figure>
   <figure>
     <img src="ecoli.data.png" height="150px" hspace="10">
