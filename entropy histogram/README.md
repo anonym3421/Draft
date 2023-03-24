@@ -1,24 +1,24 @@
-<style>
+<!-- <style>
   figcaption {
     display: block;
     text-align: center;
     font-size: 0.8em;
     margin-top: 0.5em;
   }
-</style>
+</style> -->
 
 <div>
   <figure>
     <img src="zoo.csv.png" alt="Image 1" width="30%">
-    <figcaption>Zoo</figcaption>
+    <figcaption style="text-align: center;">Zoo</figcaption>
   </figure>
   <figure>
     <img src="zoo.csv.png" alt="Image 2" width="30%">
-    <figcaption>Zoo</figcaption>
+    <figcaption style="text-align: center;">Zoo</figcaption>
   </figure>
   <figure>
     <img src="zoo.csv.png" alt="Image 3" width="30%">
-    <figcaption>Zoo</figcaption>
+    <figcaption style="text-align: center;">Zoo</figcaption>
   </figure>
 </div>
 <div>
