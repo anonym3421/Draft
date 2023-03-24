@@ -1,14 +1,14 @@
 <div class="image-row">
   <figure>
-    <img src="zoo.csv.jpg" alt="Image 1">
+    <img src="zoo.csv.png" alt="Image 1">
     <figcaption>Image 1</figcaption>
   </figure>
   <figure>
-    <img src="Yale.mat.jpg" alt="Image 2">
+    <img src="Yale.mat.png" alt="Image 2">
     <figcaption>Image 2</figcaption>
   </figure>
   <figure>
-    <img src="coli.data.jpg" alt="Image 3">
+    <img src="coli.data.png" alt="Image 3">
     <figcaption>Image 3</figcaption>
   </figure>
 </div>
